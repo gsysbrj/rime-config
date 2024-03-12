@@ -1,0 +1,13 @@
+# Trime 自定义
+patch:
+  "style/locale": zh_CN # 添加为汉语简体
+  "style/show_preview": false #按鍵提示
+  "style/show_comment": false #顯示提示區
+  "style/key_sound": false
+  "style/color_scheme": lost_temple
+
+  "preset_keyboards/terra_pinyin/keys/@34/has_menu": 'ˋ'
+  "preset_keyboards/terra_pinyin/keys/@34/send_bindings": false
+  "preset_keyboards/terra_pinyin/keys/@35/has_menu": '\'
+  "preset_keyboards/terra_pinyin/keys/@35/long_click": "'"
+...
